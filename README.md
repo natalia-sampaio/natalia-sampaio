@@ -33,7 +33,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-0D1117?style=for-the-badge&logo=symfony&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=C56FF7&background=0C04FF74&center=true&vCenter=true&width=1100&lines=Minha+vitrine)](https://cursos.alura.com.br/vitrinedev/natalia-srs)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+mono&size=30&pause=500&color=0F0F0FFF&background=78B4FFB8&center=true&vCenter=true&width=1100&lines=Minha+vitrine.dev)](https://cursos.alura.com.br/vitrinedev/natalia-srs)
 #
 # Contato📥
 
