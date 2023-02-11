@@ -10,7 +10,7 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=natalia-sampaio&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=natalia-sampaio&show_icons=true&theme=synthwave" width="49%" height="200px"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=natalia-sampaio&show_icons=true&theme=synthwave" width="49%"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave&langs_count=4" width="49%"></img>
 
 </div>
@@ -33,7 +33,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-0D1117?style=for-the-badge&logo=symfony&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=C56FF7&background=0C04FF74&center=true&vCenter=true&width=800&lines=Minha+vitrine)](https://cursos.alura.com.br/vitrinedev/natalia-srs)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=C56FF7&background=0C04FF74&center=true&vCenter=true&width=1100&lines=Minha+vitrine)](https://cursos.alura.com.br/vitrinedev/natalia-srs)
 #
 # Contato📥
 
