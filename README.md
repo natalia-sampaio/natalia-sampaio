@@ -28,10 +28,7 @@
 
 <h2> 🕓Estudando no momento: </h2>
 
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Symfony](https://img.shields.io/badge/-Symfony-0D1117?style=for-the-badge&logo=symfony&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+mono&size=30&pause=500&color=0F0F0FFF&background=78B4FFB8&center=true&vCenter=true&width=1100&lines=Minha+vitrine.dev)](https://cursos.alura.com.br/vitrinedev/natalia-srs)
 #
