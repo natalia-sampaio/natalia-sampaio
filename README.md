@@ -11,7 +11,7 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=natalia-sampaio&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img src="https://github-readme-stats.vercel.app/api?username=natalia-sampaio&show_icons=true&theme=synthwave" width="49%"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave&langs_count=4" width="49%"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-sampaio&layout=compact&theme=synthwave&langs_count=4" width="49%"></img>
 
 </div>
 
