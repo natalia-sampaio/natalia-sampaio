@@ -3,6 +3,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&background=57069F00&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Welcome+to+my+profile!;My+name+is+Nat%C3%A1lia+Andrade.)](https://git.io/typing-svg)
+  
 </div>
 
 <div align="center"> 
@@ -16,31 +17,55 @@
 
 </div>
 
-<div align="center">
+<div>
   
   #
   # Skills 
+  <div>
+  <img src="https://media.tenor.com/_4v3Nx_hzjwAAAAC/peepo.gif" height='28px' width='28px'>&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-AC9607?style=for-the-badge&logo=javascript&labelColor=786904">&nbsp;
+  <img src="https://img.shields.io/badge/-Vue.js-33a06f?style=for-the-badge&logo=vue.js&labelColor=155f3e">&nbsp;
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-03708B?style=for-the-badge&logo=tailwindcss&labelColor=024259">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-AC9607?style=for-the-badge&logo=javascript&labelColor=786904">&nbsp;
+  </div>
 
-  ![HTML 5](https://img.shields.io/badge/-HTML-550505?style=for-the-badge&logo=html5&logoColor=f45430&labelColor=3A0505)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0C07AA?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=03005B)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-AC9607?style=for-the-badge&logo=javascript&labelColor=786904)&nbsp;
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-1C9503?style=for-the-badge&logo=vue.js&labelColor=135B04)&nbsp;
-  ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-03708B?style=for-the-badge&logo=tailwindcss&labelColor=024259)&nbsp;
+  <div>
+  <img src='https://media.tenor.com/0mX52HNM8HwAAAAC/pepe-type.gif' height='28px' width='28px'>&nbsp;
+  <img src='https://img.shields.io/badge/-PHP-670597?style=for-the-badge&logo=php&labelColor=3E035B'>&nbsp;
+  <img src='https://img.shields.io/badge/-Laravel-970342?style=for-the-badge&logo=laravel&labelColor=570427'>&nbsp;
+  </div>
 
-  ![PHP](https://img.shields.io/badge/-PHP-670597?style=for-the-badge&logo=php&labelColor=3E035B)&nbsp;
-  ![Laravel](https://img.shields.io/badge/-Laravel-970342?style=for-the-badge&logo=laravel&labelColor=570427)&nbsp;
+  <div>
+  <img src='https://media.tenor.com/rMcW4AuNpdAAAAAd/pepe-think.gif' height='28px' width='28px'>&nbsp;
+  <img src='https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&labelColor=101E28'>&nbsp;
+  <img src='https://img.shields.io/badge/-SQLite-5E6061?style=for-the-badge&logo=sqlite&labelColor=25282A'>&nbsp;
+  </div>
 
-  ![MySQL](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&labelColor=101E28)&nbsp;
-  ![SQLite](https://img.shields.io/badge/-SQLite-5E6061?style=for-the-badge&logo=sqlite&labelColor=25282A)&nbsp;
+  <div>
+  <img src='https://media.tenor.com/czUWM5TqIPgAAAAd/2omb-pray.gif' height='28px' width='28px'>&nbsp;
+  <img src='https://img.shields.io/badge/-Vultr-1e38a3?style=for-the-badge&logo=vultr&labelColor=021048'>&nbsp;
+  <img src='https://img.shields.io/badge/-Firebase-ffcb2d?style=for-the-badge&logo=firebase&labelColor=f58411'>&nbsp;
+  <img src='https://img.shields.io/badge/-Vercel-333?style=for-the-badge&logo=vercel&labelColor=000'>&nbsp;
+  <img src='https://img.shields.io/badge/-Postman-ff8e64?style=for-the-badge&logo=postman&labelColor=a12700'>&nbsp;
+  <img src='https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&labelColor=384d54'>&nbsp;
+  </div>
 
-  ![Vultr](https://img.shields.io/badge/-Vultr-1e38a3?style=for-the-badge&logo=vultr&labelColor=021048)&nbsp;
-  ![Vercel](https://img.shields.io/badge/-Vercel-333?style=for-the-badge&logo=vercel&labelColor=000)&nbsp;
-  ![Firebase](https://img.shields.io/badge/-Firebase-ffcb2d?style=for-the-badge&logo=firebase&labelColor=f58411)&nbsp;
+  <div>
+  <img src='https://media.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif' height='28px' width='28px'>&nbsp;
+  <img src='https://img.shields.io/badge/-Linux-f4bf1a?style=for-the-badge&logo=linux&labelColor=312605'>&nbsp;
+  <img src='https://img.shields.io/badge/-Windows-0067b8?style=for-the-badge&logo=windows&labelColor=003e6e'>&nbsp;
+  </div>
 
-  ![Postman](https://img.shields.io/badge/-Postman-ff8e64?style=for-the-badge&logo=postman&labelColor=a12700)&nbsp;
+  <div>
+  <img src='https://media.tenor.com/rCY3koHdiTwAAAAd/ok-hand-pepe.gif' height='28px' width='28px'>&nbsp;
+  <img src='https://img.shields.io/badge/-VSCode-0066b8?style=for-the-badge&logo=visualstudiocode&labelColor=00335c'>&nbsp;
+  <img src='https://img.shields.io/badge/-Figma-f24e1e?style=for-the-badge&logo=figma&labelColor=491709'>&nbsp;
+  </div>
 
-  ![VisualStudioCode](https://img.shields.io/badge/-VSCode-2c2c32?style=for-the-badge&logo=visualstudiocode&labelColor=0066b8)&nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=for-the-badge&logo=figma&labelColor=2c2c2c)&nbsp;
+  <div>
+  <img src='https://media.tenor.com/Ba_feFn2zCsAAAAd/pepe-peppo.gif' height='28px' width='28px'>&nbsp;
+  <img src='https://img.shields.io/badge/-Discord-292841?style=for-the-badge&logo=discord&labelColor=1c1b29'>&nbsp;
+  </div>
 
   #
   # Contact me
