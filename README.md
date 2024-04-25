@@ -7,14 +7,7 @@
 </div>
 
 <div align="center"> 
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=natalia-sampaio&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=natalia-sampaio&show_icons=true&theme=synthwave" width="50%"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-sampaio&layout=compact&theme=synthwave" width="38%"/>
-  
-
-  <img src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" width="20%" /><img src="https://streak-stats.demolab.com?user=natalia-sampaio&theme=synthwave" width="50%"/><img src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="20%" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-sampaio&layout=compact&theme=synthwave" width="38%"/>
 </div>
 
 <div>
