@@ -5,11 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&background=57069F00&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Welcome+to+my+profile!;My+name+is+Nat%C3%A1lia+Andrade.)](https://git.io/typing-svg)
   
 </div>
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-sampaio&layout=compact&theme=synthwave" width="38%"/>
-</div>
-
 <div>
   
   #
@@ -61,6 +56,13 @@
   </div>
 
   #
+  
+  <div align=""> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-sampaio&layout=compact&theme=synthwave" width="50%"/>
+  </div>
+  
+  #
+  
   # Contact me
 
   <a href="natalia.srsa@proton.me"><img src="https://img.shields.io/badge/-Email-8F64B6?style=for-the-badge&logo=protonmail&labelColor=3A036C&textColor=0D1117"/></a>
