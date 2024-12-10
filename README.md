@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=180&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3961A6,50:663399,100:A43A2B&height=180&section=header"/>
 
 <div align="center">
 
@@ -72,4 +72,4 @@
 <a href="https://x.com/NataliaSRSA"><img src="https://img.shields.io/badge/-@nataliasrsa-636264?style=for-the-badge&logo=x&labelColor=black"/></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3961A6,50:663399,100:A43A2B&height=120&section=footer"/>
