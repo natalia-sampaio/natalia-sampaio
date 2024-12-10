@@ -34,6 +34,7 @@
   <img src='https://media.tenor.com/czUWM5TqIPgAAAAd/2omb-pray.gif' height='28px' width='28px'>&nbsp;
   <img src='https://img.shields.io/badge/-Vultr-1e38a3?style=for-the-badge&logo=vultr&labelColor=021048'>&nbsp;
   <img src='https://img.shields.io/badge/-Firebase-ffcb2d?style=for-the-badge&logo=firebase&labelColor=f58411'>&nbsp;
+  <img src='https://img.shields.io/badge/-Supabase-33a06f?style=for-the-badge&logo=supabase&labelColor=155f3e'>&nbsp;
   <img src='https://img.shields.io/badge/-Vercel-333?style=for-the-badge&logo=vercel&labelColor=000'>&nbsp;
   <img src='https://img.shields.io/badge/-Postman-ff8e64?style=for-the-badge&logo=postman&labelColor=a12700'>&nbsp;
   <img src='https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&labelColor=384d54'>&nbsp;
